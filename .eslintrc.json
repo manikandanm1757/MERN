@@ -1,0 +1,22 @@
+{
+    "extends": [
+        "semistandard",
+        "standard-react"
+    ],
+    "env": {
+        "browser": true,
+        "es6": true,
+        "mocha": true,
+        "node": true
+    },
+    "parser": "babel-eslint",
+    "parserOptions": {
+        "sourceType": "module"
+    },
+    "root": true,
+    "rules": {
+        "indent": [1, 4],
+        "react/jsx-indent": [1, 4],
+        "react/jsx-indent-props": [1, 4]
+    }
+}

@@ -1,0 +1,6 @@
+{
+	"mongoURI": "mongodb+srv://mani:mani@merntutor-okz0z.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret": "theSecretToken",
+	"githubClientId": "c08abcc8120b072ebf3d",
+	"githubClientSecret": "9e938eb6e900ae066e809608682065caff1af9f4"
+}
